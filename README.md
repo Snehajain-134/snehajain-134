@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sneha Jain</h1>
 
-<!--
-**Snehajain-134/snehajain-134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Java & Python Developer <br>
+🚀 Learning DSA & Building Projects <br>
+📌 Passionate about Software Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 B.Tech CSE Student  
+- 💡 Interested in Software Development  
+- 📚 Currently learning DSA (Java)  
+- ⚡ Building real-world projects  
+
+---
+
+## 🚀 Skills
+- 💻 Java
+- 🐍 Python
+- 🌐 HTML
+- 🔧 Git & GitHub
+
+---
+
+## 📂 Projects
+- 🧠 Online Quiz Platform  
+- 💬 Realtime Chat Application  
+- 🔍 Credit Card Fraud Detection  
+
+---
+
+## 📈 Currently Learning
+- Data Structures & Algorithms  
+- Problem Solving (LeetCode)  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link here)
