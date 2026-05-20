@@ -40,5 +40,5 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sneha-jain-070a43325/">LinkedIn</a> |
-  <a href="">GitHub</a>
+  <a href="https://github.com/Snehajain-134">GitHub</a>
 </p>
