@@ -38,4 +38,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link here)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-jain-070a43325/">LinkedIn</a> |
+  <a href="">GitHub</a>
+</p>
